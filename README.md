@@ -40,7 +40,7 @@ This custom Linux kernel for the Raspberry Pi 3 includes several patches aimed a
   - **000
 
 
-##Installation
+## Installation
 ```sh
 sudo apt install bc bison flex libssl-dev make
 ```
